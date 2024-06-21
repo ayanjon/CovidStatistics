@@ -1,10 +1,12 @@
+# CovidStatistics
+
 ## Project Description
-CovidStatistics is a project designed to calculate analytical values from COVID-19 data, focusing on metrics such as deaths and vaccinations. This project helps in understanding the impact of COVID-19 through detailed statistical analysis.
+CovidStatistics is a project designed to calculate analytical values from COVID-19 data, focusing on metrics such as deaths, vaccinations, location, continent, and the percent of the population infected. This project helps in understanding the impact of COVID-19 through detailed statistical analysis. The source data is taken from [Our World in Data](https://ourworldindata.org/).
 
 ## Installation Instructions
 To install and set up the project, follow these steps:
 
-1. Download the two source tables named `CovidDeath` and `CovidVaccinations`.
+1. Download the two source tables named `CovidDeath` and `CovidVaccinations`. These tables are created based on the data from [Our World in Data](https://ourworldindata.org/).
 2. Load these tables into a relational database of your choice.
 
 ## Usage Instructions
@@ -28,4 +30,3 @@ If you wish to contribute to this project, please follow these steps:
 
 ## Contact Information
 For any questions or inquiries, please contact at zhanaisovayan99@gmail.com.
-
